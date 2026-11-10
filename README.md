@@ -3,6 +3,8 @@ A small script that runs on Brave or Chrome browsers in order to claim all Megas
 
 Fab.com Free Asset Auto-Claimer (Guide)
 
+https://github.com/user-attachments/assets/44e529cf-022c-4343-8c19-c746bad17241
+
 Claiming all 20,000+ free assets one-by-one is impossible to do by hand before the event ends. This automated script runs in your browser, automatically clicks "Add to My Library" on every free asset, and auto-scrolls down to keep going.
 
 📋 Prerequisites (Do this first!)
