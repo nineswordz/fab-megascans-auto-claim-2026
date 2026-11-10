@@ -25,6 +25,8 @@ Claiming all 20,000+ free assets one-by-one is impossible to do by hand before t
 
 💻 The Script:
 
+
+```javascript
 (async function fabClickAllAddToLibrary() {
   const CLICK_DELAY_MS = 800;   // Delay between clicks (~1.2 items/sec, safe from rate limits)
   const SCROLL_WAIT_MS = 2500;  // Wait time after scrolling to let items load
@@ -158,4 +160,6 @@ Claiming all 20,000+ free assets one-by-one is impossible to do by hand before t
       }
     }
   }
-})();
+})();`
+```
+
