@@ -160,6 +160,6 @@ Claiming all 20,000+ free assets one-by-one is impossible to do by hand before t
       }
     }
   }
-})();`
+})();
 ```
 
